@@ -21,4 +21,5 @@ Its modulation rate changes depending on the input signal shape/volume :
   
 The "**Stereo**" button enables or disables stereo. The "**Release**" slider sets the amount of time needed for the modulation to decrease/increase its rate after an acceleration/deceleration. Finally, the "**Sensitivity**" button manages the loudness of input signal required to trigger the accelerator. 
 
-#### Installation : 
+### Installation : 
+$\Rightarrow$
