@@ -4,9 +4,9 @@ Free audio plugins made with JUCE by Tom DA SILVA-FARIA.
 Requirements : 
   - MacOS 10.xx or more 
   - Windows 11.xx or more 
-  - Ubuntu 20.xx or more 
-All of these plugins are VST3 and were built for 64 bits computers. 
-
+  - Ubuntu 20.xx or more   
+  
+All of these plugins are VST3 and were built for 64 bits computers.   
 Do not hesitate to contact me for comments, bugs report or anything else ! :) 
 
 ## Tremøjø :
