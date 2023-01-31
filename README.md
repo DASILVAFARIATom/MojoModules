@@ -2,4 +2,4 @@
 Free audio plugins made with JUCE
 
 
-<img src="" width="600">
+<img src="https://github.com/tomdasilva/MojoModules/blob/main/Tremojo/Tremojo.png" width="600">
