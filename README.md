@@ -29,6 +29,6 @@ $\Rightarrow$ **Ubuntu** :
 Download the Ubuntu .vst3 compressed file (https://github.com/tomdasilva/MojoModules/blob/main/Tremojo/Tremojo.vst3.zip) and unzip inside your usual VST3 folder. For Ubuntu 20.xx and later usres, it might be *~\.vst3\*, but you can actually place the *Tremojo.vst3* wherever you want in your computer. In this case, do not forget to specify the path to this folder inside your DAW...  
 
 $\Rightarrow$ *MACOS X* :   
-Download the MACOS .vst3 file () and place inside your usual .vst3 folder. If it is not yet done, do not forget to specify the path to this folder inside your DAW. 
+Download the MACOS .vst3 file (https://github.com/tomdasilva/MojoModules/blob/main/Tremojo/Tremojo.vst3) and place inside your usual .vst3 folder. If it is not yet done, do not forget to specify the path to this folder inside your DAW. 
 
 Please feel free to contact me for any questions. To do so, you can open an issue here (https://github.com/tomdasilva/MojoModules/issues). 
