@@ -1,5 +1,5 @@
 # Møjø Modules
-Free audio plugins made with JUCE
+Free audio plugins made with JUCE by Tom DA SILVA-FARIA. Do not hesitate to contact me for comments, bugs report or anything else ! :) 
 
 ## Tremøjø :
 Tremøjø is an advanced **tremolo unit** :    
