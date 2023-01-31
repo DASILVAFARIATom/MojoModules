@@ -1,5 +1,6 @@
-# Mojo Modules
+# Møjø Modules
 Free audio plugins made with JUCE
 
-
-<img src="https://github.com/tomdasilva/MojoModules/blob/main/Tremojo/Tremojo.png" width="600">
+### Tremøjø :
+Tremøjø is an advanced tremolo unit : 
+<img src="https://github.com/tomdasilva/MojoModules/blob/main/Tremojo/Tremojo.png" width="300">
