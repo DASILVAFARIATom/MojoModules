@@ -31,4 +31,4 @@ Download the Ubuntu .vst3 compressed file (https://github.com/tomdasilva/MojoMod
 $\Rightarrow$ *MACOS X* :   
 Download the MACOS .vst3 file () and place inside your usual .vst3 folder. If it is not yet done, do not forget to specify the path to this folder inside your DAW. 
 
-Please feel free to contact me for any questions. To do so, you can open an issue here (). 
+Please feel free to contact me for any questions. To do so, you can open an issue here (https://github.com/tomdasilva/MojoModules/issues). 
