@@ -23,4 +23,7 @@ The "**Stereo**" button enables or disables stereo. The "**Release**" slider set
 
 ### Installation : 
 $\Rightarrow$ **Windows** :   
-Download the windows installer (https://github.com/tomdasilva/MojoModules/blob/main/Tremojo/Tremojo-windows.exe) and launch it. Install the .vst3 file inside your usual VST3 path (it might be *C:\Programs\Common Files\VST3* or *C:\Programs (x86)\Common Files\VST3*). you should then be able to reach the plugin inside your DAW. If you encouter any trouble, feel free to contact me. 
+Download the Windows installer (https://github.com/tomdasilva/MojoModules/blob/main/Tremojo/Tremojo-windows.exe) and launch it. Install the .vst3 file inside your usual VST3 path (it might be *C:\Programs\Common Files\VST3* or *C:\Programs (x86)\Common Files\VST3*). you should then be able to reach the plugin inside your DAW. If you encouter any trouble, feel free to contact me.   
+  
+$\Rightarrow$ **Ubuntu** : 
+Downlaod the Ubuntu .vst3 compressed file () and unzip inside your usual VST3 folder. For Ubuntu 20.xx and later usres, it might be *~\.vst3\*, but you can actually place the *Tremojo.vst3* wherever you want in your computer. In this case, do not forget to specify the path to this folder inside your DAW...  
